@@ -57,6 +57,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 #   3rd Party Settings    #
 # ----------------------- #
 
+# Facebook
+facebook_user: tathagata.das
+
 # Github repositories
 github_user: tdas
 github_repo_count: 0
@@ -75,6 +78,10 @@ google_plus_one_size: medium
 # Hidden: No visible button, just add author information to search results
 googleplus_user:
 googleplus_hidden: false
+
+
+# LinkedIn
+linkedin_user: tathadas
 
 # Pinboard
 pinboard_user:
